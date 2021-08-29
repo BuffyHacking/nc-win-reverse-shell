@@ -1,0 +1,3 @@
+Run IEXPRESS as administrator to create exe files!
+By commands to run type "cmd /c (file.format)" without () and " quotes!
+For more files to run just put an & between "cmd /c (file.format) & cmd /c  (file.format)"!
