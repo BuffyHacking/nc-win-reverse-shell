@@ -1,0 +1,1 @@
+x=msgbox ("The application was unable to start correctly (0xc0000142). Click OK to close the application." ,0+16, "Application Error")
